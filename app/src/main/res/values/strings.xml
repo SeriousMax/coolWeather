@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">coolWeather</string>
+  <string name="query_city">Enter city name</string>
+  <string name="cd_weather_icon">Weather icon</string>
+</resources>

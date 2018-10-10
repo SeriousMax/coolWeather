@@ -1,4 +1,7 @@
 # coolWeather
+
+P.S. To make app work you need to use your OpenWeatherMap API ID - just save it into .tools.Env.API_ID  
+
 This application is my first attempt to use Clean Architecture in Android development.
 It uses pure Java - no Kotlin, no Rx at all. Also I've used some stuff from
 Android Architecture Components - ViewModels and LifecycleObserver.  
